@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Ziya</h1>
-<h3 align="center">I am Front-End Developer</h3>
+<h3 align="left">Hi there, I am Ziya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyaahmedli&label=Profile%20views&color=0e75b6&style=flat" alt="ziyaahmedli" /> </p>
 
