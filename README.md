@@ -6,11 +6,6 @@
 
 - 📫 Mail:  **ziyaahmedl10@gmail.com**
 
-### Spotify Playing 🎧
-
-[<img src="https://zz-lac.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31aha57xxa5jd2hoeoni6fv5p7zy)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ziyacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziyacodes" height="30" width="40" /></a>
